@@ -1,0 +1,19 @@
+.typical {
+  margin: 2.25rem;
+  height: 12.5rem;
+  width: 12.5rem;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background: black;
+  color: white;
+  line-height: 12.5rem;
+  text-align: center;
+  border-radius: .625rem;
+  -webkit-border-radius: .625rem;
+  -moz-border-radius: .625rem;
+  -ms-border-radius: .625rem;
+  -o-border-radius: .625rem;
+}
+/*# sourceMappingURL=typical.css.map */
